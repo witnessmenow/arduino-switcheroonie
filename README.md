@@ -1,5 +1,5 @@
 # arduino-switcheroonie
-A really simple macro keyboard project using an arduino. Useful for OBS for switching between scenese etc.
+A really simple macro keyboard project using an arduino. Useful for OBS for switching between scenes etc.
 
 Roughly costs about $5-6 in total and as you can see below it's really simple!
 
