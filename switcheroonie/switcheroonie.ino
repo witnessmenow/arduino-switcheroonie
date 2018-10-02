@@ -2,7 +2,8 @@
  *  A simple Macro keyboard built with Arduino                     *
  *                                                                 *
  *  By Brian Lough                                                 *
- *  https://www.youtube.com/channel/UCezJOfu7OtqGzd5xrP3q6WA       *
+ *  https://www.youtube.com/brianlough                             *
+ *  https://twitch.tv/brianlough                                   *
  *******************************************************************/
 
 
