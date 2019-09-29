@@ -19,6 +19,9 @@
 // ----------------------------
 
 #include "Keyboard.h"
+// Library with a lot of the HID definitions and methods
+// Can be useful to take a look at it see whats available
+// https://github.com/arduino-libraries/Keyboard/blob/master/src/Keyboard.h
 
 // ----------------------------
 // Additional Libraries - each one of these will need to be installed.
